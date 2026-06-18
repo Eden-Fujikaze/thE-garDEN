@@ -1,0 +1,80 @@
+name: Build Modpack Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install packwiz
+        run: |
+          curl -L -o packwiz https://github.com/packwiz/packwiz/releases/latest/download/packwiz-linux
+          chmod +x packwiz
+
+      - name: Build client pack
+        run: |
+          cd client
+          ../packwiz refresh
+          ../packwiz cf export -o client.zip
+
+      - name: Build server pack
+        run: |
+          cd ../server
+          ../packwiz refresh
+          ../packwiz cf export -o server.zip
+
+      - name: Generate mod diff from index.toml
+        run: |
+          mkdir -p diff/serverModDif
+
+          PREV_TAG=$(git tag --sort=-creatordate | sed -n 2p)
+
+          if [ -z "$PREV_TAG" ]; then
+            cp server/server.zip diff/serverModDif.zip
+          else
+            git show $PREV_TAG:server/index.toml > /tmp/old_index.toml
+            cp server/index.toml /tmp/new_index.toml
+
+            python3 - << 'EOF'
+import tomllib
+
+old = tomllib.load(open("/tmp/old_index.toml","rb"))
+new = tomllib.load(open("/tmp/new_index.toml","rb"))
+
+old_files = {f["file"] for f in old.get("files", [])}
+new_files = {f["file"] for f in new.get("files", [])}
+
+added = new_files - old_files
+
+import os, shutil
+
+os.makedirs("diff/serverModDif/mods", exist_ok=True)
+os.makedirs("diff/serverModDif/config", exist_ok=True)
+
+for f in new.get("files", []):
+    if f["file"] in added:
+        src = "server/" + f["file"]
+        dst = "diff/serverModDif/" + f["file"]
+        os.makedirs(os.path.dirname(dst), exist_ok=True)
+        shutil.copy2(src, dst)
+EOF
+
+            cd diff
+            zip -r serverModDif.zip serverModDif
+          fi
+
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            client/client.zip
+            server/server.zip
+            diff/serverModDif.zip
