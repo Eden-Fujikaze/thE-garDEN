@@ -22,14 +22,14 @@ jobs:
       - name: Build client pack
         working-directory: client
         run: |
-          ../packwiz refresh
-          ../packwiz cf export -o client.zip
-
+          packwiz refresh
+          packwiz cf export -o client.zip
+      
       - name: Build server pack
         working-directory: server
         run: |
-          ../packwiz refresh
-          ../packwiz cf export -o server.zip
+          packwiz refresh
+          packwiz cf export -o server.zip
 
       - name: Generate mod diff from index.toml
         run: |
