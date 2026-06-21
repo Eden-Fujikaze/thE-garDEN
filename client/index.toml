@@ -30,6 +30,10 @@ file = "mods/ProjectE-1.21.1-PE1.1.0.jar"
 hash = "fec9389d8b70fcf87331a0bcc41b78ada79c1e6326ef02a7bb6db9a1d5a4c48b"
 
 [[files]]
+file = "mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar"
+hash = "68036561cc5511766d54cc0deabc3fc3a5e68f9e3db2478f2574ec82b494374b"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
 metafile = true
