@@ -46,6 +46,10 @@ hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
 
 [[files]]
+file = "mods/ae_universal_press-2.0-neoforge-1.21.1.jar"
+hash = "33f0e8c551d8572b8a8fdbead1257581e3c348a02737583a3508d359bc0d2253"
+
+[[files]]
 file = "mods/aeinfinitybooster.pw.toml"
 hash = "58b8a98530d56114926704b56285d7a691d2a974ace74e8fd7998893e48830d8"
 metafile = true
@@ -280,11 +284,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 hash = "82293e9eed26b7dd2fd8f4a974b87ca294195f800f54e6d457dbeeb816b43bd2"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-minigames.pw.toml"
-hash = "150185934ea14eab2e054254696327f4add7cac2c1f1ddcd075f21f37d02b40f"
 metafile = true
 
 [[files]]
@@ -580,11 +579,6 @@ metafile = true
 [[files]]
 file = "mods/emiaccelerator.pw.toml"
 hash = "6c01c7cfec2e180ab4ef21fb38a0ed5b276046390f32a943ce3331fc98512569"
-metafile = true
-
-[[files]]
-file = "mods/enchanted-bookshelf.pw.toml"
-hash = "eebbcc774a009e50291e78aceb0ba4b7f2c095c799d4951a94cd1e09ed9f066e"
 metafile = true
 
 [[files]]
@@ -1127,11 +1121,6 @@ metafile = true
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
 hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
-metafile = true
-
-[[files]]
-file = "mods/shulker-accessory.pw.toml"
-hash = "bdcf83e9f9fe2ed6f7ad204af74a2428456bcc4a44816a1584a7783418b21131"
 metafile = true
 
 [[files]]
