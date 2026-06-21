@@ -339,11 +339,6 @@ hash = "b3adf7e1a518ce4e49332c3d5855d5c9cdc4ff10a31dc652e5daa85d8f33a619"
 metafile = true
 
 [[files]]
-file = "mods/create-the-air-war.pw.toml"
-hash = "c85397876fc4ef87eeca91002c4d3bf3a35845b5e555a623abe4eb7b6a08af36"
-metafile = true
-
-[[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "34d808989e71221b8e01a44bc8031f20af1c94981acb0cba4669e0e58be69629"
 metafile = true
@@ -690,11 +685,6 @@ metafile = true
 [[files]]
 file = "mods/journeymap-neoforge-1.21.1-6.0.0-beta.81.jar"
 hash = "e8a258ac144ea43919e498d8cbfc6b3fb25c2e79f71326ffa285d2a88226257d"
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "a8b3fa16f87e0dd02b5c5b978a6ad81fa7d3b1a9ae129063a6ee69b4993d4a59"
-metafile = true
 
 [[files]]
 file = "mods/jumbo-furnace.pw.toml"
