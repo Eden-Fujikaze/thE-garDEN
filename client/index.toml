@@ -1334,11 +1334,6 @@ hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
 metafile = true
 
 [[files]]
-file = "resourcepacks/appliedflux-guide-ru-edition.pw.toml"
-hash = "e9178da921209e2d0e02858190e335712de21453e1d3a9cb4a43280cac9cce7f"
-metafile = true
-
-[[files]]
 file = "resourcepacks/enchantment-descriptions-compat.pw.toml"
 hash = "bc0ce38c70bb6f4d685f665123e12b56ff47129185965a75d4c6b8964f4a0222"
 metafile = true
