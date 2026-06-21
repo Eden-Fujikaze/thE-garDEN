@@ -45,14 +45,20 @@ jobs:
             python3 .github/scripts/gen_diff.py
             cd diff && zip -r serverModDif.zip serverModDif
           fi
-
+    
       - name: Deploy client pack to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./client
           keep_files: false
-
+      - name: Deploy server pack to GitHub Pages (server branch)
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./server
+          publish_branch: server-pages
+          keep_files: false
       - name: Create release
         uses: softprops/action-gh-release@v2
         with:
