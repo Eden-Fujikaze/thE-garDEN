@@ -36,11 +36,6 @@ hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
 metafile = true
 
 [[files]]
-file = "mods/ae2-universal-press.pw.toml"
-hash = "9566684baf701579671881b6cf73c3c0eb03a78ce8e67328cb16e5eea8560435"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
