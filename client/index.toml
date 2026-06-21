@@ -88,16 +88,6 @@ hash = "bd25db756e368a27d83240e4345e4cc26d0237943ef0ca56603db1de4e0818f3"
 metafile = true
 
 [[files]]
-file = "mods/applied-sorting.pw.toml"
-hash = "e956d09acfaaa88ce0b98f325fd838ed5d84db5d21bef8b9c54b59502091a3c5"
-metafile = true
-
-[[files]]
-file = "mods/appliede.pw.toml"
-hash = "f74a04997c8c67f67d732aa7d6d16f23eff8f8db72bf1fb3f59278b4f8b9f0dd"
-metafile = true
-
-[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "6b26155807b2f3825db22e5be51a9ab330c8a70500a702740726053cb4678349"
 metafile = true
@@ -118,11 +108,6 @@ hash = "e735b472ad5c38359636d5abb84ed1baeb461f72aa19c324c349543823a16188"
 metafile = true
 
 [[files]]
-file = "mods/ars-elemancy.pw.toml"
-hash = "1bb8715ec65c1316ab6a982df05577a44b3a339813e8278b45c9952bfec65955"
-metafile = true
-
-[[files]]
 file = "mods/ars-energistique.pw.toml"
 hash = "8ad679c28c8d8ebf85609b571b4556bfd9f605506efbaa6907a3045c965ce8b8"
 metafile = true
@@ -140,11 +125,6 @@ metafile = true
 [[files]]
 file = "mods/ars_elemental-1.21.1-0.7.9.4.jar"
 hash = "be2008731b54b32738b41bfb96e1088821b79896112527ed25bc71cee8bd0622"
-
-[[files]]
-file = "mods/assisting-blockade.pw.toml"
-hash = "864adfc62e02af15d90b570e0747688967c5264ecb5bb1d8d9050f53ba48e5b2"
-metafile = true
 
 [[files]]
 file = "mods/autumnity.pw.toml"
@@ -198,16 +178,6 @@ metafile = true
 [[files]]
 file = "mods/building-wands.pw.toml"
 hash = "98de570e4873e332455e5526ed5b62779cdb23c217efac51ad864ae510861456"
-metafile = true
-
-[[files]]
-file = "mods/c2me.pw.toml"
-hash = "02712fd91eecd10055adcb448c274f47a3987a9f2623090f54b95fdfcc91bc56"
-metafile = true
-
-[[files]]
-file = "mods/cameraoverhaul.pw.toml"
-hash = "f74b4cf5a648f3b55d0319a559d2264f8bc34b8d760c8a60850e32ed2ab6da4d"
 metafile = true
 
 [[files]]
@@ -294,11 +264,6 @@ hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
-file = "mods/cosmetic-armor-reworked-forked.pw.toml"
-hash = "a46ca4af9976720616c93d993965bd15317ed82746230c702c55eaf447be88fd"
-metafile = true
-
-[[files]]
 file = "mods/create-addictives.pw.toml"
 hash = "9ac57f6d95564c607b35df7f0625504590b1f37d60455709cc2c59b6529a7409"
 metafile = true
@@ -314,11 +279,6 @@ hash = "932b0d9f28a5058c41bc2faf0cc09b68ef368e0cad3259efa2bace45e128fe29"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-curios-compat.pw.toml"
-hash = "0b00254c02684ba298505c954c30006dbc328a94f219332061a9cf811ef2fd02"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics-mekanism-compatibility.pw.toml"
 hash = "dc69ca0d4d628e7bd61c2a99471253dffdc875f2b7d1d91d2e25f4947ce6dd5d"
 metafile = true
@@ -331,11 +291,6 @@ metafile = true
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
 hash = "2f02126de38cf2a656b7ae97aa1f6c1a153498f5cdb03fe197c291d9c43cbb5a"
-metafile = true
-
-[[files]]
-file = "mods/create-alerted.pw.toml"
-hash = "e675780c9bda71ea063affe6f3739c0b3f65ce93e18b922809e3f75f2c5954e7"
 metafile = true
 
 [[files]]
@@ -381,11 +336,6 @@ metafile = true
 [[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "34d808989e71221b8e01a44bc8031f20af1c94981acb0cba4669e0e58be69629"
-metafile = true
-
-[[files]]
-file = "mods/create-ultimine.pw.toml"
-hash = "579800a69ca3296dae0563f50fb2605b4f6ca65633b50b8493fb68782a657314"
 metafile = true
 
 [[files]]
@@ -554,11 +504,6 @@ hash = "0a5570c6ae3540f4b058e84f1dfee75c0b2367dbbf3578dcff927183f9df3973"
 metafile = true
 
 [[files]]
-file = "mods/extendedae-plus.pw.toml"
-hash = "d0fc127f8a7b30c16fea60cb7baca6961ef76563b41d4b3d9524c91dc2764483"
-metafile = true
-
-[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
@@ -609,11 +554,6 @@ hash = "3d44705187cf938842e06d484a93e0491b82b0689785e6da4f7cabe40bd88aeb"
 [[files]]
 file = "mods/ftb-quests-neoforge-2101.1.24.jar"
 hash = "7fb6e1c4f083d8fa760d82696ee36375c037170e05823b9c2ef89ae5b602384a"
-
-[[files]]
-file = "mods/ftb-quests-optimizer.pw.toml"
-hash = "130923cea74d38f39b996ff5884dbfe91dde3f46f2efe330af2ae54d731f6481"
-metafile = true
 
 [[files]]
 file = "mods/ftb-teams-neoforge-2101.1.10.jar"
@@ -777,11 +717,6 @@ hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true
 
 [[files]]
-file = "mods/kotlin-for-forge.pw.toml"
-hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
-metafile = true
-
-[[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
 metafile = true
@@ -932,16 +867,6 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "2ccda92b6f9f4dae045fe05e57d3a1a4965b81e983006f17d75e83b464c240c9"
-metafile = true
-
-[[files]]
-file = "mods/playeranimator.pw.toml"
-hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
-metafile = true
-
-[[files]]
-file = "mods/playeranimatorapi.pw.toml"
-hash = "e28765ba82e87c025f6741bbce86de4fee23df33faf71a94c4a75fb9cc19db3d"
 metafile = true
 
 [[files]]
@@ -1115,11 +1040,6 @@ hash = "cd5c8c1f6183f5c2ca899daed14f272890566002dfcb2d9f9a59dfbfac0bc8f6"
 metafile = true
 
 [[files]]
-file = "mods/tensura-compat-ftb.pw.toml"
-hash = "8bb9febc7d6c86352c4e2da38948699b25ac23578550651d833d7d3af62a54dd"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
@@ -1142,11 +1062,6 @@ metafile = true
 [[files]]
 file = "mods/tweakerge.pw.toml"
 hash = "ec4891718b8bc3255122af0e6e4c8268fa249e17855477f6cba474e152e41ef1"
-metafile = true
-
-[[files]]
-file = "mods/usefulfood-reborn.pw.toml"
-hash = "13d09fa645ea1f1bd8cef5dd74e60747f76e2eb63a9a7afa0d723c55bb56cc12"
 metafile = true
 
 [[files]]
