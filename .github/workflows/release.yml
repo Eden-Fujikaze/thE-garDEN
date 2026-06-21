@@ -12,46 +12,30 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
       - name: Set up Go
         uses: actions/setup-go@v5
         with:
           go-version: '1.24'
-      
+
       - name: Install packwiz
         run: go install github.com/packwiz/packwiz@latest
 
-      - name: Build client pack
+      - name: Refresh client pack
         working-directory: client
-        run: |
-          packwiz refresh
-          packwiz cf export -o client.zip
-      
-      - name: Build server pack
-        working-directory: server
-        run: |
-          packwiz refresh
-          packwiz cf export -o server.zip
+        run: packwiz refresh
 
-      - name: Generate mod diff from index.toml
-        run: |
-          mkdir -p diff/serverModDif
-          PREV_TAG=$(git tag --sort=-creatordate | sed -n '2p')
-          if [ -z "$PREV_TAG" ]; then
-            echo "No previous tag found, skipping diff"
-            cp server/server.zip diff/serverModDif.zip
-          else
-            git show "$PREV_TAG:server/index.toml" > /tmp/old_index.toml
-            cp server/index.toml /tmp/new_index.toml
-            python3 .github/scripts/gen_diff.py
-            cd diff && zip -r serverModDif.zip serverModDif
-          fi
-    
+      - name: Refresh server pack
+        working-directory: server
+        run: packwiz refresh
+
       - name: Deploy client pack to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./client
           keep_files: false
+
       - name: Deploy server pack to GitHub Pages (server branch)
         uses: peaceiris/actions-gh-pages@v4
         with:
@@ -59,10 +43,3 @@ jobs:
           publish_dir: ./server
           publish_branch: server-pages
           keep_files: false
-      - name: Create release
-        uses: softprops/action-gh-release@v2
-        with:
-          files: |
-            client/client.zip
-            server/server.zip
-            diff/serverModDif.zip
