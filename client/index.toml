@@ -161,16 +161,6 @@ hash = "76122ac2bb341daceebb19cd69e1f3bf19efea88fa59010865c1b8f02ea1d759"
 metafile = true
 
 [[files]]
-file = "mods/berezka-api-for-horror-elements-mod.pw.toml"
-hash = "2a5341c3d908e7a4dd8233e876dc567b44806d22f529083835274f8bef8f6b1a"
-metafile = true
-
-[[files]]
-file = "mods/berezka-library.pw.toml"
-hash = "b570cc9ebb4fc40827aad6611431ec1b9173059bc53fc49a5b7bcdbb872ac9d3"
-metafile = true
-
-[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
@@ -615,11 +605,6 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "012e69931380a8d5b73776d255292d7d4c2cd12089273807dda56f944568eba0"
-metafile = true
-
-[[files]]
-file = "mods/horror-elements-mod.pw.toml"
-hash = "b080e4f96103249bea8399a499c0aa1b20f79515e079575940a272c2a1ca0120"
 metafile = true
 
 [[files]]
