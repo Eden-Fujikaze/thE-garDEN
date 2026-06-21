@@ -134,6 +134,10 @@ hash = "b98095038b3390812f95978f1f4ca172facd56c91c1eace018751456b3fff068"
 metafile = true
 
 [[files]]
+file = "mods/ars_elemental-1.21.1-0.7.9.4.jar"
+hash = "be2008731b54b32738b41bfb96e1088821b79896112527ed25bc71cee8bd0622"
+
+[[files]]
 file = "mods/assisting-blockade.pw.toml"
 hash = "864adfc62e02af15d90b570e0747688967c5264ecb5bb1d8d9050f53ba48e5b2"
 metafile = true
@@ -273,11 +277,6 @@ metafile = true
 [[files]]
 file = "mods/connector.pw.toml"
 hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
 
 [[files]]
@@ -605,6 +604,10 @@ file = "mods/ftb-chunks-neoforge-2101.1.14.jar"
 hash = "2e6345ecb5a402d7f97005a05bac9507f634d01e4750bab2e47dec00e740c6e5"
 
 [[files]]
+file = "mods/ftb-library-neoforge-2101.1.31.jar"
+hash = "3d44705187cf938842e06d484a93e0491b82b0689785e6da4f7cabe40bd88aeb"
+
+[[files]]
 file = "mods/ftb-quests-neoforge-2101.1.24.jar"
 hash = "7fb6e1c4f083d8fa760d82696ee36375c037170e05823b9c2ef89ae5b602384a"
 
@@ -612,6 +615,10 @@ hash = "7fb6e1c4f083d8fa760d82696ee36375c037170e05823b9c2ef89ae5b602384a"
 file = "mods/ftb-quests-optimizer.pw.toml"
 hash = "130923cea74d38f39b996ff5884dbfe91dde3f46f2efe330af2ae54d731f6481"
 metafile = true
+
+[[files]]
+file = "mods/ftb-teams-neoforge-2101.1.10.jar"
+hash = "a656f2aa0e11a933aab3ba697690aa0eb2041f65e6c5daa448897ee0a6d37a6c"
 
 [[files]]
 file = "mods/ftb-ultimine-neoforge-2101.1.14.jar"
@@ -800,6 +807,10 @@ hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched-1.7.9-neoforge-21.1.jar"
+hash = "9da5826e349f8a58dca526f7afcec9cdd7d6906577945242c87462aa6debcdee"
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "f4ec9f142fbd572f9da8253241b6c532bc9234e2defbe0e67e7ea7ea164d019c"
 metafile = true
@@ -812,11 +823,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
-metafile = true
-
-[[files]]
-file = "mods/lootrmon.pw.toml"
-hash = "4fc73c53deeb29e98ee31b7cb534f80ed3635afc54f7c37460cfba92718ce74a"
 metafile = true
 
 [[files]]
@@ -1117,11 +1123,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
-metafile = true
-
-[[files]]
-file = "mods/the-twilight-forest-dungeons-villages.pw.toml"
-hash = "07d66394c90772cbdfbe1c165e12de9e0e10f3798681b95183e4189a1c7215a3"
 metafile = true
 
 [[files]]
