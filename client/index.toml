@@ -26,6 +26,10 @@ file = "mods/KineticGrip-1.21.1-1.0.4.jar"
 hash = "9892293d6b2587505bfd4335e7b895d9ff185f6c902b2a3c626f21689008cc2d"
 
 [[files]]
+file = "mods/ProjectE-1.21.1-PE1.1.0.jar"
+hash = "fec9389d8b70fcf87331a0bcc41b78ada79c1e6326ef02a7bb6db9a1d5a4c48b"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
 metafile = true
@@ -149,11 +153,6 @@ hash = "f72e0f818b9788376820b02ed9d4f1b4d63453dcd65de2fc24743b03dd133664"
 metafile = true
 
 [[files]]
-file = "mods/baby-legends-cobblemon.pw.toml"
-hash = "13a7af76c1edc4c51d67ec6a4fd9f1bd230e8f142fbf5fa493f600d08169451a"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "76122ac2bb341daceebb19cd69e1f3bf19efea88fa59010865c1b8f02ea1d759"
 metafile = true
@@ -204,16 +203,6 @@ hash = "f74b4cf5a648f3b55d0319a559d2264f8bc34b8d760c8a60850e32ed2ab6da4d"
 metafile = true
 
 [[files]]
-file = "mods/carry-on.pw.toml"
-hash = "c5e47d922e39c1556dc2e8c94bfe852cf16de14f65b99eb3e054e41745dddad0"
-metafile = true
-
-[[files]]
-file = "mods/catch-indicator.pw.toml"
-hash = "c0b5b2814090c17687e802209b9199476fca881d250ef0e7908671ef30f4ea78"
-metafile = true
-
-[[files]]
 file = "mods/cbc_at_Neoforge_1.21.1_0.1.4c.jar"
 hash = "88fb40b3353308c90d68f4512b78b63fd7278d05915d9d8628cecab9508ee58f"
 
@@ -238,18 +227,8 @@ hash = "b5b46e4d9cc18c1e2c19c59a7ed58918e49fb5a6692c538e638fb52b82b023a5"
 metafile = true
 
 [[files]]
-file = "mods/chisels-bits.pw.toml"
-hash = "774b3afab92d453d928b18808eabb5416c84d9fdc4c3450e7becad6f702d04e5"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
-metafile = true
-
-[[files]]
-file = "mods/clavis.pw.toml"
-hash = "e23bbe0380f7a11a679106e06dee17ac7a6f88dd22a290d8b8824351161f0dae"
 metafile = true
 
 [[files]]
@@ -264,31 +243,6 @@ hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
-metafile = true
-
-[[files]]
-file = "mods/cobbledex-rei-emi-jei.pw.toml"
-hash = "a962fc59176cc2b25537df7b8e571125e21ce14ab2435cb0864013ce642dc442"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-environment-interactions.pw.toml"
-hash = "787519562370fe9c972a2296e893c0ae9616b03999d42106065eeab21a01c88c"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "82293e9eed26b7dd2fd8f4a974b87ca294195f800f54e6d457dbeeb816b43bd2"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-quests.pw.toml"
-hash = "101c2bab0ec74d4265cdb1fd9c2d2c3987773be3ecbb4bb7b759db47df8412ad"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon.pw.toml"
-hash = "bd0dd7ceb00c37cfaa945dfba23b5b2406e12be20709df8d9f82ba12a5a3a2be"
 metafile = true
 
 [[files]]
@@ -392,11 +346,6 @@ hash = "f7b20a7e5ae4678c0e74e7e6945f48c402636f8887d65b0cdab0357dd5c08856"
 metafile = true
 
 [[files]]
-file = "mods/create-cobblemon-balls-overhaul.pw.toml"
-hash = "b0b9ba7305cc583459c483d1b6c93237a5108134c0ae1c5918ec3862856ff15a"
-metafile = true
-
-[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "4e4013a4fce63ec23e3936002ae115ef3e5be24d3173697aaa73c4b4578a4144"
 metafile = true
@@ -424,11 +373,6 @@ metafile = true
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "b3adf7e1a518ce4e49332c3d5855d5c9cdc4ff10a31dc652e5daa85d8f33a619"
-metafile = true
-
-[[files]]
-file = "mods/create-radars.pw.toml"
-hash = "c24712eb82bb29d7ed210d7bc175baeb3b022c3b365b2dd0275c25f690e98f52"
 metafile = true
 
 [[files]]
@@ -607,6 +551,11 @@ hash = "e0ad7cb6cf33d7958b7c9b7af321807190adf45ada89d65892fe2d437fe3024d"
 metafile = true
 
 [[files]]
+file = "mods/extended-ae.pw.toml"
+hash = "0a5570c6ae3540f4b058e84f1dfee75c0b2367dbbf3578dcff927183f9df3973"
+metafile = true
+
+[[files]]
 file = "mods/extendedae-plus.pw.toml"
 hash = "d0fc127f8a7b30c16fea60cb7baca6961ef76563b41d4b3d9524c91dc2764483"
 metafile = true
@@ -652,14 +601,21 @@ hash = "a8bdefffee0ac7aab23ffd3ffdc2e7ce8a36048828dffdb3ae1911c82d84a1b0"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
-metafile = true
+file = "mods/ftb-chunks-neoforge-2101.1.14.jar"
+hash = "2e6345ecb5a402d7f97005a05bac9507f634d01e4750bab2e47dec00e740c6e5"
+
+[[files]]
+file = "mods/ftb-quests-neoforge-2101.1.24.jar"
+hash = "7fb6e1c4f083d8fa760d82696ee36375c037170e05823b9c2ef89ae5b602384a"
 
 [[files]]
 file = "mods/ftb-quests-optimizer.pw.toml"
 hash = "130923cea74d38f39b996ff5884dbfe91dde3f46f2efe330af2ae54d731f6481"
 metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-neoforge-2101.1.14.jar"
+hash = "d09616af192a0df096a4f0c082fb6495994210237811ba23cb022b849931c970"
 
 [[files]]
 file = "mods/ftbchunksaerospace.pw.toml"
@@ -688,11 +644,6 @@ metafile = true
 [[files]]
 file = "mods/glodium.pw.toml"
 hash = "8b30d03470cc27030f42b6719cdb8975f163ed336fc8592f0277a4291bb08aec"
-metafile = true
-
-[[files]]
-file = "mods/gregtechceu-modern.pw.toml"
-hash = "b720e13a9d96e0d79a9a691f5cee6be60747166df2f702579bbe577e155df597"
 metafile = true
 
 [[files]]
@@ -871,11 +822,6 @@ metafile = true
 [[files]]
 file = "mods/mafglib.pw.toml"
 hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
-metafile = true
-
-[[files]]
-file = "mods/mchalo.pw.toml"
-hash = "003a3ee198b0f72530843d1fab67e792e9693d35c8da40109ce8a0ca7a5cb3f7"
 metafile = true
 
 [[files]]
@@ -1064,11 +1010,6 @@ hash = "2a9a5ea8762480444c9766309152afefe8644f6b83ab7658364cfdb89b4cf46b"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "21388a8519fbba93d4663a40bb163932855213ec47f41af18c1d3a4a1e2ada93"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
 metafile = true
@@ -1104,11 +1045,6 @@ hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
 
 [[files]]
-file = "mods/sdm-shop.pw.toml"
-hash = "e959993fff18e80accdfa1e241c564076295b8119bcfd6d44bed32c6df61e59a"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
@@ -1124,18 +1060,8 @@ hash = "d9ce27f9d286624817ecac1abf6f01d8658fee1d562bea2b34193fb3b639182d"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "369617869e9c8224e9c5e875d70677c491bc4282919b32705d096d253e2ffecd"
-metafile = true
-
-[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "27c6365bdc19eff05f3231bff86a4f09b2d584fed40de92d67c00b4cbd52862a"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "1aad262000bea80b345a973a19a626bfbcb65b2ba78843843649e740168d04fd"
 metafile = true
 
 [[files]]
@@ -1191,11 +1117,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
-metafile = true
-
-[[files]]
-file = "mods/the-broken-script.pw.toml"
-hash = "7bfb9d1b41925bbbd25023ab9266c4bcce267c10a90eb41136d88722f81bc533"
 metafile = true
 
 [[files]]
