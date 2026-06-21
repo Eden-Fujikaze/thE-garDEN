@@ -389,6 +389,11 @@ file = "mods/cloth-config-15.0.140-neoforge.jar"
 hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
 file = "mods/coinsje-neoforge-1.21.1-21.1.2.jar"
 hash = "fa9ac3ee31e68d0b0569b22c7418bfda0db8e0b2262010515f0c74298945f273"
 
