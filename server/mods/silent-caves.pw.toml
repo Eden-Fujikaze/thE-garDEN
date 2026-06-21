@@ -1,0 +1,13 @@
+name = "Silent Caves"
+filename = "evil_stone_golem-merged-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/44uCzPEr/versions/UpFahPmY/evil_stone_golem-merged-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "40f76275321df19a1a4b1f3883e04137824705502443aea69e8cf2c58188abcbfef1e47dec8fb9f1c58232bb380eb74bbfbb8deeb67bbe953fcad79d2211fb06"
+
+[update]
+[update.modrinth]
+mod-id = "44uCzPEr"
+version = "UpFahPmY"

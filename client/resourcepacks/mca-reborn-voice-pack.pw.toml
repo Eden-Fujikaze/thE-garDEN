@@ -1,0 +1,13 @@
+name = "MCA Reborn Voice Pack"
+filename = "MCAVoices-1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/liih55Dz/versions/jDWPwLul/MCAVoices-1.0.0.zip"
+hash-format = "sha512"
+hash = "336b5237224fbfa17d496f3315289efa177c7af150633e254b10b1303132040ab0fceca57d4ad0ce4e092ecad81b5b76300004b80b56ddb22a377d0de6b1072a"
+
+[update]
+[update.modrinth]
+mod-id = "liih55Dz"
+version = "jDWPwLul"

@@ -1,0 +1,13 @@
+name = "Curvy Pipes"
+filename = "curvy_pipes-1.21.1-1.15.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ns4fCzXQ/versions/t1wq7vGu/curvy_pipes-1.21.1-1.15.3.jar"
+hash-format = "sha512"
+hash = "cf2929e7bdf73f83f41bad4a43a9bdbf19764be5563540fb70145cccfcbc3d5aff0279abc3bd9fe065e326c53f29362c262b64d3130353418fdfc26c7ca75eda"
+
+[update]
+[update.modrinth]
+mod-id = "Ns4fCzXQ"
+version = "t1wq7vGu"

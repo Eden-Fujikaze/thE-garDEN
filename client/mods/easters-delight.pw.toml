@@ -1,0 +1,13 @@
+name = "Easter's Delight"
+filename = "eastersdelight-neoforge-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Eg1DyRej/versions/mbtSXQY9/eastersdelight-neoforge-1.21.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "fb03d5927e772dc70feb355fd5c74b1a23faa14a04d9ace0a3adc05bf3c0303f9010de6d6c56462151ca7ef550c5c2df74146601f2f1f4f8f3977499d03f4ea0"
+
+[update]
+[update.modrinth]
+mod-id = "Eg1DyRej"
+version = "mbtSXQY9"

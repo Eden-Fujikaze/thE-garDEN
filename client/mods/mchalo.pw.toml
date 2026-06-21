@@ -1,0 +1,13 @@
+name = "MCHalo"
+filename = "mchalo-neoforge-1.21.1-2.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JUk0DjJ2/versions/FSYRXBY0/mchalo-neoforge-1.21.1-2.0.5.jar"
+hash-format = "sha512"
+hash = "3e7ad8d4ee2fe7ec9c53a0554247daf0b581250f7de61f319c79658e34dee01f0d7f7c9b6c3ca601abd1ca0bb6110672a5661da4b6900e59c987bf45df7a7959"
+
+[update]
+[update.modrinth]
+mod-id = "JUk0DjJ2"
+version = "FSYRXBY0"

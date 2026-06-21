@@ -1,0 +1,13 @@
+name = "Shulker Accessory"
+filename = "shulker_accessories-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eea9465c1990b04cf3a1e9d9341f873a72d2b2c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8008003
+project-id = 1505779

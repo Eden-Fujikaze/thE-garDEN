@@ -1,0 +1,13 @@
+name = "UsefulFood Reborn"
+filename = "UsefulFood_Reborn-1.5.0-1.21.1-Neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VafD51Dc/versions/ESEO0a1b/UsefulFood_Reborn-1.5.0-1.21.1-Neoforge.jar"
+hash-format = "sha512"
+hash = "708a789fd2d4ddb9e72977c3b33f4ced4c4e67b8eff67b46be1588e549d436422ee74a01f842ef7311cea5998b756c04e8f7a6951ac50852d97e9d51e70a0ad0"
+
+[update]
+[update.modrinth]
+mod-id = "VafD51Dc"
+version = "ESEO0a1b"

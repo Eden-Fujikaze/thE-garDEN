@@ -1,0 +1,13 @@
+name = "Applied Sorting"
+filename = "appliedsorting-1.21.1-neoforge-v2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1vwGom2N/versions/A8GFJqjL/appliedsorting-1.21.1-neoforge-v2.0.0.jar"
+hash-format = "sha512"
+hash = "e932a47003f0e2c883d6843d0fd2a8bfb4fb88dd6f6627b23637b7d7d36918deda128df5513add9094e0920e7f11292043dd9f09441ee88b08cdb2b10b9fbaef"
+
+[update]
+[update.modrinth]
+mod-id = "1vwGom2N"
+version = "A8GFJqjL"
