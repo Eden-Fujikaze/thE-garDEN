@@ -3,6 +3,6 @@ filename = "main.js"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main/kubejs/client_scripts/main.js"
+url = "https://eden-fujikaze.github.io/thE-garDEN/kubejs/client_scripts/main.js"
 hash-format = "sha256"
 hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"

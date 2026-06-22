@@ -3,6 +3,6 @@ filename = "common.json"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main/kubejs/config/common.json"
+url = "https://eden-fujikaze.github.io/thE-garDEN/kubejs/config/common.json"
 hash-format = "sha256"
 hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"

@@ -3,6 +3,6 @@ filename = "README.txt"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main/kubejs/README.txt"
+url = "https://eden-fujikaze.github.io/thE-garDEN/kubejs/README.txt"
 hash-format = "sha256"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"

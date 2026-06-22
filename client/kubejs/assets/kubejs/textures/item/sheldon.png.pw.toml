@@ -3,6 +3,6 @@ filename = "sheldon.png"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main/kubejs/assets/kubejs/textures/item/sheldon.png"
+url = "https://eden-fujikaze.github.io/thE-garDEN/kubejs/assets/kubejs/textures/item/sheldon.png"
 hash-format = "sha256"
 hash = "14af44f1aef5afce3b33a304546a5c7e2694131ac9ded75ac91d9af50c41228e"

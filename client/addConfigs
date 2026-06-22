@@ -1,7 +1,6 @@
 #!/bin/sh
 
-REPO="https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main"
-
+REPO="https://eden-fujikaze.github.io/thE-garDEN"
 for folder in kubejs config; do
   find "$folder" -type f ! -name "*.pw.toml" | while read f; do
     hash=$(sha256sum "$f" | cut -d' ' -f1)

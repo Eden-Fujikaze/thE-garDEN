@@ -3,6 +3,6 @@ filename = "sheldon_logic.js"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main/kubejs/server_scripts/sheldon_logic.js"
+url = "https://eden-fujikaze.github.io/thE-garDEN/kubejs/server_scripts/sheldon_logic.js"
 hash-format = "sha256"
 hash = "1303beecf5c96b266c017f6cc41912a712f8a20d07168d0fec6ee9f58372ce64"

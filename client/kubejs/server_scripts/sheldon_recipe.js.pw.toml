@@ -3,6 +3,6 @@ filename = "sheldon_recipe.js"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main/kubejs/server_scripts/sheldon_recipe.js"
+url = "https://eden-fujikaze.github.io/thE-garDEN/kubejs/server_scripts/sheldon_recipe.js"
 hash-format = "sha256"
 hash = "d6f4ebec16040cef9ada726576ef814564772ca54b213b34b089a336c3885286"
