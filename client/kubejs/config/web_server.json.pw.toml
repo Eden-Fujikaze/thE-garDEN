@@ -1,0 +1,8 @@
+name = "web_server.json"
+filename = "web_server.json"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main/kubejs/config/web_server.json"
+hash-format = "sha256"
+hash = "0aaa5b48f91cb12a7f3b257fe49e25c45c2776260f19331e8088a5bebaf09fb1"

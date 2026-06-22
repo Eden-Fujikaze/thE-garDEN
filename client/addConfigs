@@ -1,0 +1,15 @@
+find kubejs -type f | while read f; do
+  hash=$(sha256sum "$f" | cut -d' ' -f1)
+  name=$(basename "$f")
+  cat > "$f.pw.toml" <<EOF
+name = "$name"
+filename = "$name"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main/$f"
+hash-format = "sha256"
+hash = "$hash"
+EOF
+done
+packwiz refresh

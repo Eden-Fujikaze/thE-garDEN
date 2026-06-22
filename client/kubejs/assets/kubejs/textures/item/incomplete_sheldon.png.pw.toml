@@ -1,0 +1,8 @@
+name = "incomplete_sheldon.png"
+filename = "incomplete_sheldon.png"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main/kubejs/assets/kubejs/textures/item/incomplete_sheldon.png"
+hash-format = "sha256"
+hash = "a20ba45f49a03e87535f67c2d42f6c4f2d37b55de3f9eac1d792d254d7f18a51"
