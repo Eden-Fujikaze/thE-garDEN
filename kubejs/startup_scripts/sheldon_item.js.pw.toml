@@ -1,0 +1,8 @@
+name = "sheldon_item.js"
+filename = "sheldon_item.js"
+side = "both"
+
+[download]
+url = "https://eden-fujikaze.github.io/thE-garDEN/kubejs/startup_scripts/sheldon_item.js"
+hash-format = "sha256"
+hash = "5d32f1c9d72a8644c3c9234b73fb2310849727a4d98e85788625263fccedc1d2"

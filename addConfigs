@@ -1,0 +1,21 @@
+#!/bin/sh
+
+REPO="https://eden-fujikaze.github.io/thE-garDEN"
+for folder in kubejs config; do
+  find "$folder" -type f ! -name "*.pw.toml" | while read f; do
+    hash=$(sha256sum "$f" | cut -d' ' -f1)
+    name=$(basename "$f")
+    cat > "$f.pw.toml" <<EOF
+name = "$name"
+filename = "$name"
+side = "both"
+
+[download]
+url = "$REPO/$f"
+hash-format = "sha256"
+hash = "$hash"
+EOF
+  done
+done
+
+packwiz refresh

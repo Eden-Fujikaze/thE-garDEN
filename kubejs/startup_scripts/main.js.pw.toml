@@ -1,0 +1,8 @@
+name = "main.js"
+filename = "main.js"
+side = "both"
+
+[download]
+url = "https://eden-fujikaze.github.io/thE-garDEN/kubejs/startup_scripts/main.js"
+hash-format = "sha256"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"

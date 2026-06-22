@@ -1,0 +1,8 @@
+name = "sheldon_fire.ogg"
+filename = "sheldon_fire.ogg"
+side = "both"
+
+[download]
+url = "https://eden-fujikaze.github.io/thE-garDEN/kubejs/assets/kubejs/sounds/sheldon_fire.ogg"
+hash-format = "sha256"
+hash = "59ecbb262f02d3cc974fac566794bd1c2df558c1117352e7f97ebbabec998089"

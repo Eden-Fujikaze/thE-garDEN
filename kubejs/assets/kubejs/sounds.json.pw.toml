@@ -1,0 +1,8 @@
+name = "sounds.json"
+filename = "sounds.json"
+side = "both"
+
+[download]
+url = "https://eden-fujikaze.github.io/thE-garDEN/kubejs/assets/kubejs/sounds.json"
+hash-format = "sha256"
+hash = "4f889db98f3905d6795fc23b68fda3e6ae03aab9a6522063a214c7bab7111f71"
