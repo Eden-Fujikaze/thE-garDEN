@@ -1,6 +1,6 @@
 name = "sheldon_fire.ogg"
 filename = "sheldon_fire.ogg"
-side = "client"
+side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main/kubejs/assets/kubejs/sounds/sheldon_fire.ogg"

@@ -1,6 +1,6 @@
 name = "sheldon_logic.js"
 filename = "sheldon_logic.js"
-side = "client"
+side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main/kubejs/server_scripts/sheldon_logic.js"

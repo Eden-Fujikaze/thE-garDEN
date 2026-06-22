@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "addConfigs"
-hash = "076273dd1e604318afafe9d141915306a2fccdbb90efa63d0d559f37c4564ea7"
+hash = "bf79dc77acf00cf271b90333586951ce6c45ace53659014d8b20cf8372a7be9f"
 
 [[files]]
 file = "failed_mods.txt"
@@ -14,7 +14,7 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/README.txt.pw.toml"
-hash = "90f17dff302d5d92c92a0d9250bbe60b9cb18f553451277beb91bcdd41a5816e"
+hash = "9434b986c32d5c584550c21b7ff416cf0ee7ce7f16a52eb73662c20dc9c3d549"
 metafile = true
 
 [[files]]
@@ -23,7 +23,7 @@ hash = "4f889db98f3905d6795fc23b68fda3e6ae03aab9a6522063a214c7bab7111f71"
 
 [[files]]
 file = "kubejs/assets/kubejs/sounds.json.pw.toml"
-hash = "1890ccbbe3a7fe91d80ef8ab84e6d468132b56b2d52fe63b34966ee851ee906e"
+hash = "e7094c3a792af076ca80680cff93cb5670f04d04517c83c6cabf33383d69a033"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ hash = "59ecbb262f02d3cc974fac566794bd1c2df558c1117352e7f97ebbabec998089"
 
 [[files]]
 file = "kubejs/assets/kubejs/sounds/sheldon_fire.ogg.pw.toml"
-hash = "e5acb3397194f9c4c19a84ad0e8d909a623eacced5f474b75c886d7bc56b98f2"
+hash = "b346fbb72e851d85fc6316f94b8857224452fe5625625c5212093b4eddd56044"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png.pw.toml"
-hash = "b2872c37ab78ee7a0ac174289a03caf117bcf2db61330adce3a2a8b88c7db41d"
+hash = "cbfd36fc83c5da8efa75ebb219ab5f73728b33ed1a1d6a85cb9c63ecb0fe4bc0"
 metafile = true
 
 [[files]]
@@ -50,7 +50,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png.pw.toml"
-hash = "427ad98959754eaf1b245760014150612ae04ed8b5ce2625cb57a0ec82a1c359"
+hash = "546b3f78586a2085fa470226b266d14ba177c7bfa4a57571b0e134ea01ae42aa"
 metafile = true
 
 [[files]]
@@ -59,7 +59,7 @@ hash = "a20ba45f49a03e87535f67c2d42f6c4f2d37b55de3f9eac1d792d254d7f18a51"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_sheldon.png.pw.toml"
-hash = "a7cac33903386483ba6d6f5070f6b20fc1463060d0391bfc39cbd7d4d158bff5"
+hash = "5bbe34ce9ed625d27033b1bd6c1926cf9c4f05b305410363359956d51b32c19e"
 metafile = true
 
 [[files]]
@@ -68,7 +68,7 @@ hash = "14af44f1aef5afce3b33a304546a5c7e2694131ac9ded75ac91d9af50c41228e"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/sheldon.png.pw.toml"
-hash = "9060cccce1797f2cb3429daa310bafdd4f004515846fb1abe65f9e3333fa10b2"
+hash = "56ce70746b830c68f6011575b5d0c58a91819e693245061545604c77d1d7f0ea"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
 
 [[files]]
 file = "kubejs/client_scripts/main.js.pw.toml"
-hash = "e0587774ed71b7c1a65f21639609cce6b6e82d25904614f8588e236456b62a70"
+hash = "b78353deee933c08a1a251ef6103026397230a6d61c29b696a34496031a24896"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ hash = "3c3c64cfa7189a079d674768d0eea11477debd3b56275880e4ae1bba21151a5e"
 
 [[files]]
 file = "kubejs/config/client.json.pw.toml"
-hash = "c952067872b6b700585fc869c60fda61093aa93220a8dac3824038bc2e64c5d6"
+hash = "af7d7c4e93ee5ea35d62557435e09231b168a94baece72c524d6a27ea41ae4d3"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/config/common.json.pw.toml"
-hash = "6851abc9bf53c7b333ef9686b07958450a726cbe99a5d9ad5724bd6cae576f54"
+hash = "682bb0803494eef9a90ef3c8a23ae9452afbfcf732ed0b1148c1f5669648c9e4"
 metafile = true
 
 [[files]]
@@ -104,7 +104,7 @@ hash = "0aaa5b48f91cb12a7f3b257fe49e25c45c2776260f19331e8088a5bebaf09fb1"
 
 [[files]]
 file = "kubejs/config/web_server.json.pw.toml"
-hash = "88e8f00946538aa47e534da8590e02f1225f88ca38e5e8d68e370734de3c0e9e"
+hash = "9462d1de5b681274c56f866ad36f81cb8843acab9df3df31642c92dc5b3b9f46"
 metafile = true
 
 [[files]]
@@ -113,7 +113,7 @@ hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
 
 [[files]]
 file = "kubejs/server_scripts/main.js.pw.toml"
-hash = "6870f1438888a617e6567711588ff205b588e9afca298e10cb97e7445502019f"
+hash = "68fd509685b3d42bf66d3b46b5fa69f3e45efb7a826173e2ef3b75bb5213c878"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ hash = "1303beecf5c96b266c017f6cc41912a712f8a20d07168d0fec6ee9f58372ce64"
 
 [[files]]
 file = "kubejs/server_scripts/sheldon_logic.js.pw.toml"
-hash = "78e843e225e85b83dc44d39235e6b3a796fad5b34cfb9b8f9e292d3b736cfa24"
+hash = "22ac1cdd21c49cd778dcb1c6c3c2c50c2146335171107afafed51c56ea6a3826"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ hash = "d6f4ebec16040cef9ada726576ef814564772ca54b213b34b089a336c3885286"
 
 [[files]]
 file = "kubejs/server_scripts/sheldon_recipe.js.pw.toml"
-hash = "d6cff67f8e096d519b6ccf240f1c4f0573b248b3d5b2599f657e388126462446"
+hash = "d6be198ea2c6e8cf3622a2b97ec8b40c9b0db0c3330bdb41ab9584bc65e60dfa"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js.pw.toml"
-hash = "c8191b4a16c725505ae3db85c60f8fd0194cc89c1adf3330ec382cf9dba66922"
+hash = "039620238deff1233558e946fcbd9ae425620f814da6db9ec8235fb5fbd75fbd"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ hash = "5d32f1c9d72a8644c3c9234b73fb2310849727a4d98e85788625263fccedc1d2"
 
 [[files]]
 file = "kubejs/startup_scripts/sheldon_item.js.pw.toml"
-hash = "b8463cabca5edcd45a84479810bd6c8175d7cd806e6dca9e262d353fa7576669"
+hash = "8092484fa1ceb28bc8d36a4a62de25e7866585ee06aefcec31f3ec39d1c339f8"
 metafile = true
 
 [[files]]

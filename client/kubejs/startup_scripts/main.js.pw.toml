@@ -1,6 +1,6 @@
 name = "main.js"
 filename = "main.js"
-side = "client"
+side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main/kubejs/startup_scripts/main.js"

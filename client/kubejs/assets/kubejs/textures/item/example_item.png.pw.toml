@@ -1,6 +1,6 @@
 name = "example_item.png"
 filename = "example_item.png"
-side = "client"
+side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main/kubejs/assets/kubejs/textures/item/example_item.png"

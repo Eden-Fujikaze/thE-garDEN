@@ -1,6 +1,6 @@
 name = "sheldon_item.js"
 filename = "sheldon_item.js"
-side = "client"
+side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main/kubejs/startup_scripts/sheldon_item.js"

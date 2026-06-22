@@ -1,6 +1,6 @@
 name = "sounds.json"
 filename = "sounds.json"
-side = "client"
+side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main/kubejs/assets/kubejs/sounds.json"

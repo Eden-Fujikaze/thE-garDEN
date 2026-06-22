@@ -1,6 +1,6 @@
 name = "README.txt"
 filename = "README.txt"
-side = "client"
+side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main/kubejs/README.txt"

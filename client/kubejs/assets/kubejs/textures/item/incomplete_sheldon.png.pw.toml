@@ -1,6 +1,6 @@
 name = "incomplete_sheldon.png"
 filename = "incomplete_sheldon.png"
-side = "client"
+side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/Eden-Fujikaze/thE-garDEN/main/kubejs/assets/kubejs/textures/item/incomplete_sheldon.png"
