@@ -675,7 +675,7 @@ hash = "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
 
 [[files]]
 file = "mods/garden-1.0-SNAPSHOT.jar"
-hash = "5c46b4e64744a6f203d73a29664598bd9631973d2c146266f4afe8052a7664c9"
+hash = "af3efd61b642b3e958e8a31de7272f02716c2cf1b788d5fa85227c5da1315898"
 
 [[files]]
 file = "mods/geckolib-neoforge-1.21.1-4.8.4.jar"
@@ -828,6 +828,11 @@ hash = "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
 [[files]]
 file = "mods/player-animation-lib-forge-2.0.4+1.21.1.jar"
 hash = "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "252547b364471df931005a57234082388e74eed949387ef39d17ce5fc56e190d"
+metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
