@@ -5,6 +5,70 @@ file = "failed_mods.txt"
 hash = "b23610f1931d74f2ed50c1541a636dbdd318899ba5e7b1e47000633c628b410a"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/sounds.json"
+hash = "4f889db98f3905d6795fc23b68fda3e6ae03aab9a6522063a214c7bab7111f71"
+
+[[files]]
+file = "kubejs/assets/kubejs/sounds/sheldon_fire.ogg"
+hash = "59ecbb262f02d3cc974fac566794bd1c2df558c1117352e7f97ebbabec998089"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_sheldon.png"
+hash = "a20ba45f49a03e87535f67c2d42f6c4f2d37b55de3f9eac1d792d254d7f18a51"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/sheldon.png"
+hash = "14af44f1aef5afce3b33a304546a5c7e2694131ac9ded75ac91d9af50c41228e"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "3c3c64cfa7189a079d674768d0eea11477debd3b56275880e4ae1bba21151a5e"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "0aaa5b48f91cb12a7f3b257fe49e25c45c2776260f19331e8088a5bebaf09fb1"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+
+[[files]]
+file = "kubejs/server_scripts/sheldon_logic.js"
+hash = "1303beecf5c96b266c017f6cc41912a712f8a20d07168d0fec6ee9f58372ce64"
+
+[[files]]
+file = "kubejs/server_scripts/sheldon_recipe.js"
+hash = "d6f4ebec16040cef9ada726576ef814564772ca54b213b34b089a336c3885286"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
+file = "kubejs/startup_scripts/sheldon_item.js"
+hash = "5d32f1c9d72a8644c3c9234b73fb2310849727a4d98e85788625263fccedc1d2"
+
+[[files]]
 file = "mods.sh"
 hash = "3c03bc679a9a7ccf1b563a048fe2113ff1320adaacced436aa72cdaa29fa3853"
 
@@ -39,10 +103,6 @@ hash = "66cad715a52397352f04faff3a78c0352b68f3d1212651013d60d1854caa6ec6"
 [[files]]
 file = "mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar"
 hash = "60b548bef04a2f0e1da686ee9035c2e3d4ed0459a17d7a4836fc26af6de6b60e"
-
-[[files]]
-file = "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar"
-hash = "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26"
 
 [[files]]
 file = "mods/BrewinAndChewin-neoforge-4.4.2+1.21.1.jar"
@@ -111,10 +171,6 @@ hash = "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0"
 [[files]]
 file = "mods/Incendium_1.21.x_v5.4.4.jar"
 hash = "285a4f69fe2391f2175f7fc9316d727a39c79bdd214923c59284d569bce656f4"
-
-[[files]]
-file = "mods/InvMove-0.9.3+1.21.1-NeoForge.jar"
-hash = "e84329e06d40346a88b3eda5985500ded34efad2ad30c43f1dd3a486eff58d1b"
 
 [[files]]
 file = "mods/Jade-1.21.1-NeoForge-15.10.5.jar"
@@ -534,20 +590,12 @@ file = "mods/cyclopscore-1.21.1-neoforge-1.29.1.jar"
 hash = "61bd0fcfdf16330d0b468765111666e8abcb029c172b2e6db314b37fb0206166"
 
 [[files]]
-file = "mods/dark_loading_screen-1.0.0.jar"
-hash = "d8e6aaca0d282793a7b8820e0faa0bf4f32308178975a71abcb33071e6529bc5"
-
-[[files]]
 file = "mods/deeperdarker-neoforge-1.21.1-1.4.jar"
 hash = "1ab9be467644c31fba6231089a44f8173ffda21aaa7e5360358ae1b03a5b55e2"
 
 [[files]]
 file = "mods/dummmmmmy-1.21-2.0.12-neoforge.jar"
 hash = "4d35c6cdc7a17d6175f116ec8b31ce5ebc740e5d1412ce32cc721b042b2f5298"
-
-[[files]]
-file = "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar"
-hash = "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e"
 
 [[files]]
 file = "mods/dysoncubeproject-1.0.5.jar"
@@ -616,10 +664,6 @@ hash = "35e9f833432a7a7d25c24e85289a6f58e2cbe2e1cf43b9c0cfef7d5752d04394"
 [[files]]
 file = "mods/extra-mod-integrations-all-neoforge-1.0.3+1.21.1.jar"
 hash = "588bc09f0f43e04ef0c18d8e884197ffd4a0e605470f455cf0b5f1508cb994ba"
-
-[[files]]
-file = "mods/fancymenu_neoforge_3.9.1_MC_1.21.1.jar"
-hash = "ce3605a2737dc7d1e5c5b70ea78664e9eb6804b8a6eeb49cb5805be359cc4cee"
 
 [[files]]
 file = "mods/fantasy_armor-neoforge-1.2.4-1.21.1.jar"
@@ -889,10 +933,6 @@ hash = "c79f19d9acea367adc1a8631ffc04c300a6e2b4902994a0111bd283b5e7f19fb"
 [[files]]
 file = "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar"
 hash = "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
-
-[[files]]
-file = "mods/rrls-5.0.10+mc1.21.1-forge.jar"
-hash = "2e23b281f95ba0c55073026e0c16d207890d7785869ed975f62ca01edbc984e0"
 
 [[files]]
 file = "mods/rusticdelight-neoforge-1.21-1.6.1.jar"
