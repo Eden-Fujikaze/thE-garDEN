@@ -1,0 +1,13 @@
+name = "gardenServer"
+author = "Eden Fujikaze"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a7f6e180a7ef0ec403412172d7614a5fd593cd8b56b14d711eacea7854641753"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"
