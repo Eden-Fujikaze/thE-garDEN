@@ -835,16 +835,6 @@ hash = "252547b364471df931005a57234082388e74eed949387ef39d17ce5fc56e190d"
 metafile = true
 
 [[files]]
-file = "mods/playeranimator.pw.toml"
-hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
-metafile = true
-
-[[files]]
-file = "mods/playeranimatorapi.pw.toml"
-hash = "e28765ba82e87c025f6741bbce86de4fee23df33faf71a94c4a75fb9cc19db3d"
-metafile = true
-
-[[files]]
 file = "mods/polyeng-0.4.1.jar"
 hash = "69e565dc00abc5881ccff6801c8a0817f479eaf871d578aefd992b9b6614a2f9"
 
